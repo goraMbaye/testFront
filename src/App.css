@@ -1,7 +1,10 @@
 @import '~antd/dist/antd.css';
 Header{
   text-align: center;
+
 }
-nest-messages{
-  width: 40px;
+#root{
+  width: 80%;
+  max-width: 0 auto;
+  margin-top: 20%;
 }
